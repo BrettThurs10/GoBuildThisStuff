@@ -117,3 +117,29 @@ Resources: https://rapidapi.com/blog/best-sports-apis-ranked/
 Create a Netflix or Hulu clone
 
 Resources: https://www.themoviedb.org/documentation/api
+
+### COVID tracker
+
+Resources: https://covid-api.com/, https://leafletjs.com/
+
+### Dice roller
+
+Make a dice roller app where the user can select all manner of dice to roll (and multiples of, too).
+
+### Spotify clone
+
+Resources: https://developer.spotify.com/documentation/web-api/
+
+### SpaceX dashboard
+
+Create a dashboard showing launchpad data and upcoming events
+
+Resources: https://github.com/r-spacex/SpaceX-API
+
+### Video game deals website
+
+Resources: https://apidocs.cheapshark.com/
+
+### Find a city bike near me
+
+Resources: http://api.citybik.es/v2/
