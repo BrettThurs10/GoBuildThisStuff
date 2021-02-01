@@ -1,6 +1,6 @@
 # Go Build This Stuff
 
-### An massive list of web apps (or apps) to kick that creative block to the curb.
+### A massive list of web apps (or apps) to kick that creative block to the curb.
 
 > Suggested APIs are just that, suggested. Feel free to find others.
 
@@ -68,7 +68,7 @@ Resources: https://randomuser.me/api/
 
 ### Super hero database
 
-Create a searchable super hero database and link related heroes/villians
+Create a searchable super hero database and link related heroes/villains
 
 Resources: https://superheroapi.com/, https://developer.marvel.com/
 
@@ -84,11 +84,11 @@ Resources: https://www.djamware.com/post/5f2a1d9d9c794f177fd7b527/react-js-tutor
 
 ### News app
 
-Resourecs: https://dev.npr.org/api/
+Resources: https://dev.npr.org/api/
 
 ### NASA app
 
-Create a ton of cool things with the NASA api
+Create a ton of cool things with the NASA API
 
 Resources: https://api.nasa.gov/
 
@@ -132,7 +132,7 @@ Resources: https://developer.spotify.com/documentation/web-api/
 
 ### SpaceX dashboard
 
-Create a dashboard showing launchpad data and upcoming events
+Create a dashboard showing launch pad data and upcoming events
 
 Resources: https://github.com/r-spacex/SpaceX-API
 
