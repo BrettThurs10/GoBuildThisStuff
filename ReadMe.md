@@ -143,3 +143,19 @@ Resources: https://apidocs.cheapshark.com/
 ### Find a city bike near me
 
 Resources: http://api.citybik.es/v2/
+
+### Chuck Norris jokes
+
+Resources: https://api.chucknorris.io
+
+### Interesting number facts
+
+Resources: http://numbersapi.com
+
+### Movie information search
+
+Resources: http://www.omdbapi.com/
+
+### Jokes Api
+
+Resources: https://official-joke-api.appspot.com/
