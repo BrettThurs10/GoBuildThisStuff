@@ -138,24 +138,39 @@ Resources: https://github.com/r-spacex/SpaceX-API
 
 ### Video game deals website
 
+Create a video game deals website that can allow user the create a profile and save notifications on titles, genres or price points.
+
 Resources: https://apidocs.cheapshark.com/
 
 ### Find a city bike near me
+
+Make a mobile app called Peddlr (or something spunky).
+"Hey Peddlr, I need a bike. ::ring:: Ok, here are the bikes I've found."
+
+Return the results. If you can make it voice enabled then you get ⭐ ⭐ ⭐ ⭐ ⭐.
 
 Resources: http://api.citybik.es/v2/
 
 ### Chuck Norris jokes
 
+Chuck Norris joke generator. FYI, there is an 'explicit' category for the NSFW concerned.
+
 Resources: https://api.chucknorris.io
 
 ### Interesting number facts
 
+Make a random numbers website where users can put in a year and get trivia returned to them about that year (maybe a in the year you were born trivia).
+
+You could also create a simple React component that is really just a loader that shows random math trivia while the user waits for something.
 Resources: http://numbersapi.com
 
 ### Movie information search
 
+Make a searchable movie database.
 Resources: http://www.omdbapi.com/
 
-### Jokes Api
+### Random joke generator
 
-Resources: https://official-joke-api.appspot.com/
+Make a random joke generator or make a Hello Dolly Wordpress plugin, but make it a Joke of the Day WP plugin.
+
+Resources: https://jokes.one/api/joke/, https://official-joke-api.appspot.com/
